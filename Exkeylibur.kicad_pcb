@@ -1630,7 +1630,7 @@
     (pad "0" smd rect locked (at -3.7 1.1 180) (size 0.9 0.9) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9647131c-a246-4e90-966c-cb22199270be))
     (pad "0" smd rect locked (at 3.7 -1.1 180) (size 0.9 0.9) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cda4c156-eea0-4258-bc97-32a54a513bf3))
     (pad "1" smd rect locked (at 2.25 -2.075 180) (size 0.9 1.25) (layers "B.Cu" "B.Paste" "B.Mask")
-      (pinfunction "A") (pintype "passive") (tstamp 9344f297-4170-4b58-a811-9e058ff1d1e2))
+      (net 24 "unconnected-(PWR_SW1-Pad1)") (pinfunction "A") (pintype "passive") (tstamp 9344f297-4170-4b58-a811-9e058ff1d1e2))
     (pad "2" smd rect locked (at -0.75 -2.075 180) (size 0.9 1.25) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "Net-(BT_V1-Pad1)") (pinfunction "B") (pintype "passive") (tstamp 6ff8ce68-20d0-4e3d-86f4-1ab9c1d21f02))
     (pad "3" smd rect locked (at -2.25 -2.075 180) (size 0.9 1.25) (layers "B.Cu" "B.Paste" "B.Mask")
