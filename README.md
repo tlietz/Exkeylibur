@@ -14,3 +14,22 @@ Must they breathe? 'Cause typing feels like heaven.
 ```
 
 *Based off of ['Excalibur' - by David Brent](https://www.youtube.com/watch?v=634TC7Feku4)*
+
+I would like to thank the honorable [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), for without you, the Exkeylibur would have no pcb layout.
+
+## Prelude
+
+An Exkeylibur is a 36-key, diodeless, wireless-only keyboard with Ferris stagger and a reversible PCB.
+
+An Exkeylibur can be wielded without a sheath, however I encourage you to create one.
+
+A promicro, or any other non-wireless microcontroller drop-in for the promicro is **not** supported. This is because the GPIO pin that would normally go to a TRRS jack
+now goes to an extra switch.
+
+As of right now, all Exkelibur are choc-spaced.
+
+### Original
+
+### Hilted
+
+### Compressed
