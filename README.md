@@ -9,7 +9,7 @@ Say you are.
 
 Take the cool, dark, steeled board,
 Steal it, sheath it, in your workflow.
-I would drown my other keebs to be together.
+All would drown their other keebs to be together.
 Must they breathe? 'Cause typing feels like heaven.
 ```
 
