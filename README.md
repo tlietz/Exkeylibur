@@ -34,6 +34,12 @@ As of right now, all Exkelibur are choc-spaced.
 
 ### Original
 
+![original-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/og_pcb.png)
+
 ### Hilt
 
+![hilt-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/hilted_pcb.png)
+
 ### Dagger
+
+![dagger-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/dagger_pcb.png)
