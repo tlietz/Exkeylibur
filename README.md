@@ -23,13 +23,17 @@ An Exkeylibur is a 36-key, diodeless, wireless-only keyboard with Ferris stagger
 
 An Exkeylibur can be wielded without a sheath, however I encourage you to create one.
 
-A promicro, or any other non-wireless microcontroller drop-in for the promicro is **not** supported. This is because the GPIO pin that would normally go to a TRRS jack
+A promicro, or any other non-wireless microcontroller drop-in for the promicro, is **not** supported. This is because the GPIO pin that would normally go to a TRRS jack
 now goes to an extra switch.
 
 As of right now, all Exkelibur are choc-spaced.
 
+## Images
+
+*physical pcb images coming soon*
+
 ### Original
 
-### Hilted
+### Hilt
 
-### Compressed
+### Dagger
