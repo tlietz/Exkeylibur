@@ -21,12 +21,12 @@ I would like to thank the honorable [Ferris Sweep](https://github.com/davidphili
 
 An Exkeylibur is a 36-key, diodeless, wireless-only keyboard with Ferris stagger and a reversible PCB.
 
-An Exkeylibur can be wielded without a sheath, however I encourage you to create one.
+An Exkeylibur can be wielded without a sheath, however, you are encouraged to create one.
 
 A promicro, or any other non-wireless microcontroller drop-in for the promicro, is **not** supported. This is because the GPIO pin that would normally go to a TRRS jack
 now goes to an extra switch.
 
-As of right now, all Exkelibur are choc-spaced.
+As of right now, all Exkeylibur are choc-spaced.
 
 ## Firmware
 
