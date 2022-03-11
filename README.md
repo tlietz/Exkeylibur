@@ -28,9 +28,11 @@ now goes to an extra switch.
 
 As of right now, all Exkelibur are choc-spaced.
 
-## Images
+## Firmware
 
-*physical pcb images coming soon*
+Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
+
+## Images
 
 ### Original
 
