@@ -45,3 +45,11 @@ Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
 ### Dagger
 
 ![dagger-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/dagger_pcb.png)
+
+## Todo For version 2
+
+- [ ] Rotate thumb keys by 90 degrees to support 1.5u keycaps
+- [ ] Add room to have better places to put rubber feet
+- [ ] Move home thumb row key to be between the original inner and outer thumb key placement of the Ferris
+- [ ] Place reset button in a place that can be easily pressed by hand
+- [ ] Add drill holes to support Corne MCU covers
