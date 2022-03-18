@@ -26,11 +26,15 @@ An Exkeylibur can be wielded without a sheath, however, you are encouraged to cr
 A promicro, or any other non-wireless microcontroller drop-in for the promicro, is **not** supported. This is because the GPIO pin that would normally go to a TRRS jack
 now goes to an extra switch.
 
-As of right now, all Exkeylibur are choc-spaced.
+## Features
 
-## Firmware
-
-Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
+- Wireless only
+- No diodes required
+- 36 keys
+- Reversible PCB
+- Ferris stagger
+- Choc-spaced
+- Promicro MCU footprint
 
 ## V2 Changes
 
@@ -40,13 +44,17 @@ Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
 - Place reset button in a position that can be easily pressed with finger
 - Slightly increased reset button pcb pad spacing to support more sizes
 - Removed stagger on inner columns to reduce strain on index finger when reaching for the bottom key.
-- Add drill holes to support Corne MCU covers
+- Added drill holes to support Corne MCU covers
+
+## Firmware
+
+Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
+
+---
 
 ## Images
 
 ### V2
-
----
 
 ### V1
 
