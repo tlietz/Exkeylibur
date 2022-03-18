@@ -32,24 +32,32 @@ As of right now, all Exkeylibur are choc-spaced.
 
 Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
 
+## V2 Changes
+
+- Rotated thumb keys by 90 degrees to support 1.5u keycaps
+- Added room to place rubber feet
+- Moved home thumb row key to be between the original inner and outer thumb key placement of the Ferris
+- Place reset button in a position that can be easily pressed with finger
+- Slightly increased reset button pcb pad spacing to support more sizes
+- Removed stagger on inner columns to reduce strain on index finger when reaching for the bottom key.
+- Add drill holes to support Corne MCU covers
+
 ## Images
 
-### Original
+### V2
+
+---
+
+### V1
+
+#### Original
 
 ![original-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/og_pcb.png)
 
-### Hilt
+#### Hilt
 
 ![hilt-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/hilt_pcb.png)
 
-### Dagger
+#### Dagger
 
 ![dagger-pcb](https://github.com/tlietz/Exkeylibur/blob/main/images/dagger_pcb.png)
-
-## Todo For version 2
-
-- [ ] Rotate thumb keys by 90 degrees to support 1.5u keycaps
-- [ ] Add room to have better places to put rubber feet
-- [ ] Move home thumb row key to be between the original inner and outer thumb key placement of the Ferris
-- [ ] Place reset button in a place that can be easily pressed by hand
-- [ ] Add drill holes to support Corne MCU covers
