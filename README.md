@@ -54,6 +54,8 @@ Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
 
 ### V2
 
+![v2](https://github.com/tlietz/Exkeylibur/blob/main/images/exkeylibur_v2.png)
+
 ### V1
 
 #### Original
