@@ -38,17 +38,15 @@ now goes to an extra switch.
 
 ## V2 Changes
 
-- Rotated thumb keys by 90 degrees to support 1.5u keycaps
+- Rotated outer thumb key by 90 degrees to support 1.5u keycap
 - Added room to place rubber feet
-- Moved home thumb key to be between the original thumb keys of the Ferris
+- Moved home thumb key to be between the two thumb keys of the Ferris Sweep
 - Placed reset button in a position that can be easily pressed with finger
 - Slightly increased reset button pcb pad spacing to support more sizes
 
 ## Firmware
 
 Wield the Exkeylibur with the [firmware](https://github.com/tlietz/zmk-config)
-
----
 
 ## Images
 
