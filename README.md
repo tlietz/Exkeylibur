@@ -34,7 +34,6 @@ now goes to an extra switch.
 - Reversible PCB
 - Ferris stagger
 - Choc-spaced
-- Promicro MCU footprint
 
 ## V2 Changes
 
@@ -42,7 +41,7 @@ now goes to an extra switch.
 - Added room to place rubber feet
 - Moved home thumb key to be between the two thumb keys of the Ferris Sweep
 - Placed reset button in a position that can be easily pressed with finger
-- Slightly increased reset button pcb pad spacing to support more sizes
+- Slightly increased reset button pcb pad spacing to support more button sizes
 
 ## Firmware Build Instructions
 
